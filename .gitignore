@@ -1,0 +1,18 @@
+# Bluesim generated build directory
+mini-project/build_bsim/
+
+# Bluesim generated files
+*.bo
+*.ba
+*.bexe
+*.bexe.so
+*.so
+*.o
+*.cxx
+*.h
+*.log
+run.log
+
+# Editor temporary files
+*.swp
+*~
