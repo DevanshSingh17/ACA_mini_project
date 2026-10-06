@@ -10,7 +10,7 @@ The project contains three matrix-multiplication architectures:
 
 A detailed comparison of the architectures, synthesis results, cycle counts, stalls, and design trade-offs is available here:
 
-### [Design A vs Design B vs Design C — Detailed Comparison](CMOS_Matrix_Multiplication_Design_Comparison.pdf)
+###[Design A vs Design B vs Design C — Detailed Comparison](ACA_Matrix_Multiplication_Design_Comparison.pdf)
 
 ### Key Results
 
