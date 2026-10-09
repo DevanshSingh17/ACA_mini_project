@@ -11,6 +11,7 @@ The project contains three matrix-multiplication architectures:
 A detailed comparison of the architectures, synthesis results, cycle counts, stalls, and design trade-offs is available here:
 
 ### [ACA Mini-Project Report — Detailed Design Comparison](ACA_MiniProject_Report.pdf)
+### [ACA Mini-Project Part 1 Report](ACA_MiniProject_Part1_Report_brief_3pages.pdf)
 
 ### Key Results
 
